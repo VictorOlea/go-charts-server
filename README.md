@@ -1,1 +1,1 @@
-# go-charts-sercer
+# go-charts-server
